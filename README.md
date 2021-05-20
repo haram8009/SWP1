@@ -1,2 +1,2 @@
-20213066	Lee Haram
-Kookmin Univ. SW
+20213066 Lee Haram
+Kookmin Univ. SW Dept.
